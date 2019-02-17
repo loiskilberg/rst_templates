@@ -1,10 +1,11 @@
-============
 Lois Kilberg
-============
+############
 
-****************
 Technical Writer
 ****************
+
+Contact
+=======
 
 e: loiskilberg@gmail.com
 
@@ -14,9 +15,8 @@ w: `<http://www.loislegacyart.com>`_
 
 c: 617-460-1894
 
-****************
-Personal Profile  
-****************
+Profile  
+=======
 
 Accomplished professional with a wide variety of both technical and creative experience, eager to return to technical writing and contribute in a remote position for a dynamic and forward-thinking company.
 
@@ -25,3 +25,12 @@ Accomplished professional with a wide variety of both technical and creative exp
 * Demonstrated technical expertise, **skilled at coding applications** in several languages including HTML & C.
 
 * Proven track record of **user-friendly interface design** drawing on extensive background in art and design.
+
+Professional Experience
+=======================
+
+Education & Training
+====================
+
+Technical Skills
+================
