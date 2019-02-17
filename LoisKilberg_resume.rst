@@ -7,13 +7,11 @@ Technical Writer
 Contact
 =======
 
-e: loiskilberg@gmail.com
+loiskilberg@gmail.com
 
-w: linkedin.com/in/loiskilberg
+<a href="http://linkedin.com/in/loiskilberg" target="_blank">www.linkedin.com/in/loiskilberg</a>
 
-w: `<http://www.loislegacyart.com>`_
-
-c: 617-460-1894
+617-460-1894
 
 Profile  
 =======
