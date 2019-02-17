@@ -1,6 +1,10 @@
-==============================
-Lois Kilberg, Technical Writer
-==============================
+============
+Lois Kilberg
+============
+
+****************
+Technical Writer
+****************
 
 e: loiskilberg@gmail.com
 
