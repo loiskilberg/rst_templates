@@ -1,10 +1,10 @@
-Lois Kilberg
+LOIS KILBERG
 ############
 
-Technical Writer
+TECHNICAL WRITER
 ****************
 
-Contact
+CONTACT
 =======
 
 loiskilberg@gmail.com
@@ -13,7 +13,7 @@ loiskilberg@gmail.com
 
 617-460-1894
 
-Profile  
+PROFILE  
 =======
 
 Accomplished professional with a wide variety of both technical and creative experience, eager to return to technical writing and contribute in a remote position for a dynamic and forward-thinking company.
@@ -24,11 +24,11 @@ Accomplished professional with a wide variety of both technical and creative exp
 
 * Proven track record of **user-friendly interface design** drawing on extensive background in art and design.
 
-Professional Experience
+PROFESSIONAL EXPERIENCE
 =======================
 
-Education & Training
+EDUCATION & TRAINING
 ====================
 
-Technical Skills
+TECHNICAL SKILLS
 ================
