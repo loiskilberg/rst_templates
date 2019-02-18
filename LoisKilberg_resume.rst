@@ -9,7 +9,7 @@ Contact
 
 loiskilberg@gmail.com
 
-<a href="http://linkedin.com/in/loiskilberg" target="_blank">www.linkedin.com/in/loiskilberg</a>
+`www.linkedin.com/in/loiskilberg<http://linkedin.com/in/loiskilberg/>`_
 
 617-460-1894
 
