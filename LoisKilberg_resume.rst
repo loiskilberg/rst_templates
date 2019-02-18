@@ -27,6 +27,19 @@ Accomplished professional with a wide variety of both technical and creative exp
 PROFESSIONAL EXPERIENCE
 =======================
 
+Lois Legacy Art LLC (formerly Lois Mitchell, Artist), Hudson, NH
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Artist/Illustrator**, 2003 – Present
+
+Create freelance illustrations, 3D topographic maps, and fine art paintings and drawings. Develop and execute marketing and sales plans including social media campaigns and direct sales events. Manage online store content and e-commerce transactions.
+
+* Accomplished a major rebranding effort and launched online store.
+* Illustrated 4 published children's books, with 1 additional book on publication review list for 2019.
+* Designed graphics for Healthville, a social-networking dieting support, Farmville-type game.
+
+SilverStream Software, Billerica, MA
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 EDUCATION & TRAINING
 ====================
 
