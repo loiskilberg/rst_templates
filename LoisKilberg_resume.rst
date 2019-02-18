@@ -47,7 +47,7 @@ Recruited to document Java software development kit and reference materials. Int
 * Created questions for certification process that increased the skills and status of engineers in the customer base.
 
 Proactive Solutions, Tulsa, OK & Bethel Park, PA
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 **Usability Director/Technical Writer/Programmer**, 1993-1997
 
 Developed user interfaces (UI) in collaboration with a multidisciplinary team including executive management. Designed and conducted usability tests, instituting a usability lab, recruiting and training sample users, and developing high and low fidelity prototypes. Incorporated feedback and coded user interfaces.
@@ -55,43 +55,47 @@ Developed user interfaces (UI) in collaboration with a multidisciplinary team in
 * Improved user experience for the ported version of the UI, leading a project to design a more user-friendly interface that would appeal to the average project manager.
 * Recognized with tradeshow award and received front page coverage in many computing magazines for executing the UI design and usability-testing for an artificial intelligence (AI) project management product.
 
-company, city
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-**position**, from - to
+Brainstorm Technologies, Tulsa, OK
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Technical Writer/Programmer**, 1990-1993
 
-desc
+Authored documentation for industrial automation software projects and assisted with programming and UI
+design. Participated in the set up and installation of applications at client sites and trained end users.
 
-* one
-* two
+* Recognized for design and coding skills leading to expanded responsibilities.
+* Contributed to projects that included manufacturing, machine motion control, horizontal pump testing,
+and fiber optics network.
 
-company, city
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-**position**, from - to
+Mitchell Software Consulting, Columbia MD
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**IT Consultant**, 1986-1992
 
-desc
+Assumed operation of this small business delivering excellent customer service in development of custom
+applications and associated documentation.
 
-* one
-* two
+* Developed and documented the software program for a grain elevator profit management program.
+* Improved mine safety by developing programs to control mining ventilation, collaborating with a mining
+safety expert to code on a new platform, and resolved errors in the original code.
 
-company, city
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-**position**, from - to
+Motorola Employees Credit Union, Schaumburg IL
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Data Processing Manager**, 1982-1986
 
-desc
+Led team to convert computer systems to in-house system. Arranged for and trained several remote branch
+offices to become online satellite operations.
 
-* one
-* two
+* Recognized for innovative technology ideas and promoted from an operations specialist documenting
+office procedures to being in charge of upgrading computer operations.
+* Selected to serve on the board of directors, as chapter president for the local credit union trade
+organization, and as regional user representative for the computer system.
 
-company, city
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-**position**, from - to
+DuPage Schools Credit Union, Wheaton IL
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Systems Manager**, 1979-1982
 
-desc
+Managed the data processing department and administered the in-house computer system.
 
-* one
-* two
-
-
+* Promoted from customer service to preparing loan documents, and then to systems manager.
 
 EDUCATION & TRAINING
 ====================
