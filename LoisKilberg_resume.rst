@@ -7,11 +7,11 @@ TECHNICAL WRITER
 CONTACT
 =======
 
-loiskilberg@gmail.com
+Hudson, NH
+
+617-460-1894 ♦ loiskilberg@gmail.com
 
 `www.linkedin.com/in/loiskilberg <http://linkedin.com/in/loiskilberg>`_
-
-617-460-1894
 
 PROFILE  
 =======
