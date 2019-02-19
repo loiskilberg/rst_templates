@@ -28,8 +28,7 @@ Add a dust cover to the back of the frame:
 
 #. Apply mounting tape.
 
-#. Attach the dust backing securely to the frame. Remove any excess tape adhesive that you can feel sticking.
-Add these notes:
+#. Attach the dust backing securely to the frame. Remove any excess tape adhesive that you can feel sticking. Add these notes:
 - always use a fresh blade
 - hold your cutting hand firmly and consistently while running it along the frame piece for a good looking trim
 Add these cautions:
