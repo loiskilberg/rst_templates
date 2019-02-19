@@ -1,57 +1,36 @@
-Use this template to start a new topic
-
 .. _Heading 1 label:
 
-Topic Title
-###########
+Finishing Up a Newly Made Frame
+###############################
 
 .. include:: ../../shared/utils/page_toc.txt
 
-If topic has multiple sections, use page-toc.txt utility ^^. Otherwise remove.
+The materials you will need in order to finish the frame with bumpers and labels are:
 
-Only add text under Heading 1 if there are no subsections
+- (2) rubber bumpers
+- a hot glue gun with glue sticks that dry clear
+- nearby electric outlet for the glue gun
+- Dymo label maker, software installed on computer, label files ready with logo and fonts, blank labels (add external link to Dymo website) (show picture of label layout)
+- a soft surface to rest the frame on while working
+- a protective surface to put the hot glue gun on
 
+The SKU numbers for frames at |llc| are:
 
-What is ?
-***********
+add code block here to explain SKU digits
 
-High level conceptual information (Heading 2).
+Finish the New Frame
+********************
 
-At a minimum, a concept includes the following components.
+Add rubber bumpers and labels to the new frame:
 
-* A title, phrased as a gerund or question.
-* One or more body paragraphs.
+#. Gather supplies.
 
-Complex concepts may contain 2 or more subsections.
+#. Plug in the hot glue gun. Make sure a glue stick is fully inserted. Add a caution to position the glue gun safely on a protective surface.
 
+#. Add bumpers, using hot glue gun. Add a diagram of where to place the bumpers. Unplug the glue gun. Let it cool down while you continue.
 
-What is <part of subject> ?
-============================
+#. Add labels, as many as required. Use Dymo. Possibly more than one label if there are contents, one for the contents and one for the frame. And maybe one for a map disclosure.
 
-When you need to break down a subject, you can break it down into subsections (H3s). Typically you woul have 0 H3s, or 2+ H3s.
+#. Arrange for supplies to be replenished.
 
-
-What is <part of subject> ?
-============================
-
-When you need to break down a subject, you can break it down into subsections (H3s)
-
-
-Do this
-***********
-
-A task typicallly follows conceptual information. Task titles should be imperative. Tasks should have a short introduction sentence that captures the user's goal and introduces the steps, for example, "Verify your products are in the catalog:"
-
-A task should have 3 - 7 steps.  Tasks with more should be broken down into digestible chunks.
-
-Intro sentence.
-
-#. Step 1.
-
-#. Step 2.
-
-#. Step 3.
-
-Following the steps, you should add the result and any follow-up tasks needed.
-
-Typically, each topic must contain the project includes file.
+You are done making the frame! Add a caution to make sure the glue gun is cool enough to put away. Put away materials used for this task. Perform any follow steps for Making an Art Frame.
