@@ -1,57 +1,45 @@
-Use this template to start a new topic
-
 .. _Heading 1 label:
 
-Topic Title
-###########
+Adding Dust Covers
+##################
 
 .. include:: ../../shared/utils/page_toc.txt
 
-If topic has multiple sections, use page-toc.txt utility ^^. Otherwise remove.
+Why Add a Dust Cover?
+*********************
 
-Only add text under Heading 1 if there are no subsections
+this text to be written
 
+Where Does the Dust Cover Go?
+*****************************
 
-What is ?
-***********
+this text to be written
 
-High level conceptual information (Heading 2).
+include a diagram show the layout and where to cut and where to trim
 
-At a minimum, a concept includes the following components.
+Add a Dust Cover
+****************
 
-* A title, phrased as a gerund or question.
-* One or more body paragraphs.
+Add a dust cover to the back of the frame:
 
-Complex concepts may contain 2 or more subsections.
+#. Gather materials
 
+#. Cut the dust backing larger than the frame.
 
-What is <part of subject> ?
-============================
+#. Apply mounting tape.
 
-When you need to break down a subject, you can break it down into subsections (H3s). Typically you woul have 0 H3s, or 2+ H3s.
+#. Attach the dust backing securely to the frame. Remove any excess tape adhesive that you can feel sticking.
+Add these notes:
+- always use a fresh blade
+- hold your cutting hand firmly and consistently while running it along the frame piece for a good looking trim
+Add these cautions:
+- blades are very sharp. It is easy to seriously cut yourself. Be careful and be ready to bandage a cut or seek emergency attention.
+- how to discard used blades safely
 
+#. Discard unneeded pieces.
 
-What is <part of subject> ?
-============================
+#. Arrange for supplies to be replenished.
 
-When you need to break down a subject, you can break it down into subsections (H3s)
+Now the frame will keep dust from entering inside the frame, which makes the display look clean and fresh. The back of the rame now looks very professional.
 
-
-Do this
-***********
-
-A task typicallly follows conceptual information. Task titles should be imperative. Tasks should have a short introduction sentence that captures the user's goal and introduces the steps, for example, "Verify your products are in the catalog:"
-
-A task should have 3 - 7 steps.  Tasks with more should be broken down into digestible chunks.
-
-Intro sentence.
-
-#. Step 1.
-
-#. Step 2.
-
-#. Step 3.
-
-Following the steps, you should add the result and any follow-up tasks needed.
-
-Typically, each topic must contain the project includes file.
+Put away the supplies used for this task.
