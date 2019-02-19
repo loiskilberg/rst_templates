@@ -3,6 +3,10 @@
 .. |llc| replace:: Lois Legacy Art LLC
 .. |ez| replace:: EZ-Release
 
+I plan to add conditional text based on:
+- whether to show typical cost of materials
+- whether to show typical labor time
+
 Making Art Frames
 #################
 
