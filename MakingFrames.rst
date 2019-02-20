@@ -1,5 +1,6 @@
 .. _Heading 1 label:
 
+I need to move substitutions to a shared file.
 .. |llc| replace:: Lois Legacy Art LLC
 .. |ez| replace:: EZ-Release
 
@@ -12,74 +13,81 @@ Making Art Frames
 
 .. include:: ../../shared/utils/page_toc.txt
 
-Introducing Frame-Making
-************************
+Making Our Own Frames
+*********************
 
-At |llc|, we typically make our own frames. We sell these frames to customers as well as use them to display our art at events, at galleries, and on our studio walls. Offering frames for sale is a secondary service to our customers for these reasons: 
+At |llc|, we typically make our own art frames. We sell these frames to customers. We also use them to display our art at events, at galleries, and on our studio walls. Offering frames for sale is a service to our customers, which offers these benefits: 
 
-* It saves the customer time and hassle to go get it framed later.
-* The customer may be gifting the art to a third party, and having the art already framed makes it attractive, quick, and easy to hand it to someone else ready to hang.
-* Frames protect the artwork so the customer don't have to worry about how to store the art safely while it is unframed.
-* Framing through |llc| is typically cheaper than a frame shop, since it is not our main product and we are not trying to make a big profit from it.
+* It saves the customer the time and hassle that would be required to get the art framed later.
+* The customer may be giving the art to a third party. Having the art already framed makes it an attractive, quick, and easy gift to hand it to someone else, ready to hang on a wall.
+* A frame protects the artwork so that the customer doesn't have to worry about how to store the art safely while unframed.
+* Framing through |llc| is typically cheaper than a frame shop, since it is not our main product and we are not trying to make a large profit from it.
 * The customer can be assured that we will make the frame look good with the art.
 
-Framing is optional to our customers. A customer may prefer to purchase artwork left unframed because:
-* It is less expensive upfront to buy the artwork unframed. The customer can wait to find the funds to pay for framing.
-* The customer may be happy with how the art appears unframed and may never desire to get it framed.
-* The customer may be gifting the art to a third party and may not know the end recipient's decorating style.
-* The customer may want to choose a frame later from more options when they are ready  to match it to their own decorating style.
-* The customer may prefer a different matting than what we offer, so it makes sense to wait until later to frame the art.
+Framing is optional to our customers. A customer may prefer to leave artwork unframed because:
 
-We offer basic frame choices. We can also do custom frame work if asked, which may cost more and take longer.
+* It is less expensive upfront to buy artwork unframed. The customer can wait until later to find the funds to pay for framing.
+* The customer may be happy with how the art appears unframed and may never desire to get it framed.
+* The customer may be giving the art to a third party and may not know the end recipient's decorating style, which could affect the choice of frame.
+* The customer may want to choose a frame from another source that has more choices, in order to match it to their own decorating style.
+* The customer may prefer a different mat than what we offer, so it makes sense to wait until the customer changes the contents to frame the art.
+
+We offer basic frame choices. We can also do custom framing beyond what we typically offer, which may cost more and take longer.
 
 Why Make Our Own Frames?
 ========================
-* We prefer to use wood frames, and it is not always easy to find good, affordable, wood frames when you want them. We choose wood because:
-    - Wood frames meet expectations for a professional appearance.
+
+There are several reasons we choose to make our own frames: 
+
+* We prefer to use wood frames. It is not always easy to find good, affordable, wood frames that have a consistent look when you need them. We choose wood because:
+
+    - Wood frames provide a professional appearance.
     - Some art galleries require wood frames.
-    - Wood is durable, so you don't need to worry about a frame falling apart during a show.
-    - You can drill into the back of a wood frame for wiring on the back, which is often required by an art gallery.
-* We can control the quality and not worry about the condition of an online shipment of premade frames.
-* We do not need to worry about transporting premade frames.
-* We can typically save the customer money by framing it for them.
-* We can save a lot of money for ourselves when framing our art for shows and events.
-* We can make frames in any quantity on demand at any time of day or night. This comes in handy when doing last-minute preparations into the late hours.
-* We can easily repair a frame immediately as long as we have the parts.
+    - Wood is durable, so you don't need to worry about a flimsy frame falling apart during a show.
+    - You can drill into the back of a wood frame to install the type of wiring that is often required by art galleries.
+    
+* We can control the quality.
+* We typically save the customer money by framing art for them.
+* We can save money for ourselves when framing our art for shows and events.
+* We can make frames on demand at any time of day or night. This is a big advantage when doing last-minute preparations for an event.
+* We can repair a damaged frame immediately as long as we have the parts.
 
 What Types of Frames do We Make?
 ================================
 
 more text will go here, add a table showing the frame types, define "glazing", perhaps talk about when to use plexi vs glass and how to tell them apart, maybe an external link to frame pictures on our Etsy shop
 
-Making the Frames
-*****************
+Preparing to Make Frames
+************************
 
-Making frames the way we do at |llc| takes a bit of muscle strength. It is a good idea to practice making frame before you are in a rush to complete an order. Here are some helpful hints to keep in mind:
+Making frames requires a bit of muscle strength, especially since we use a manually powered saw. It is a good idea to practice making frames before you are in a rush to complete an order. Here are some helpful hints to keep in mind:
 
-- It takes time to make a frame. Allow enough time so you don't feel rushed or tired.
-- It is great to have a vacuum cleaner handy to keep clean up the sawdust you will create.
-- Expect mistakes! So:
-    * Double-check all calculations and measurements before cutting anything.
-    * Some equipment may be slightly faulty, so remember how to adjust for any of these slight errors.
-    * Have extra materials in case something gets ruined.
-    * Start while you still have extra time, if possible, so that you will have enough time in case you have to redo something.
-    * Smile and be nice to yourself. Enjoy the beautiful product you will have made when you took the time to make or redo it correctly.
+* It takes time to make a frame. Allow enough time so you don't feel rushed or tired.
+* It is helpful to have a vacuum cleaner handy to keep clean up the sawdust you will create.
+* Expect mistakes!
+
+    - Double-check all calculations and measurements before cutting anything.
+    - Some equipment may be slightly faulty, so remember how to adjust for these slight situations.
+    - Have extra materials in case a piece gets ruined.
+    - If possible, start while you still have extra time, so that you won't be rushed in case you have to redo something.
+    - Enjoy the beautiful product you will have made when you take the time to make or redo it correctly!
 
 Obtaining the Needed Materials
 ==============================
 
-The materials to make a frame will vary depending on the type of frame. Decide how much of each material to keep on hand, finding a balance between:
-- funds available
-- expected demand
-- length of time available to complete an order. For example, will you have time to wait for a moulding order to arrive once a customer places an order or |llc| commits to participating in an event?
-- storage space to hold the materials before making the frames
+The materials to make a frame will vary depending on the type of frame. Deciding how much of each material to keep on hand is usually finding a balance between:
 
-Gather your materials in plenty of time before you need them. We recommend allotting at least two weeks to restock supplies. Also, make sure there is enough moulding on hand before the last couple weeks in December each year, because our preferred supplier shuts down during that time period. 
+* Funds available
+* Expected demand
+* Length of time available to complete an order (will you have time to wait for a moulding order to arrive once a customer places an order or when |llc| commits to participating in an event?)
+* Storage space to hold the materials before making the frames
 
-Understand the General Steps Involved
-=====================================
+Gather your materials in plenty of time before you need them. We recommend allowing at least two weeks to restock supplies. Also, make sure there is enough moulding on hand before the last couple weeks in December each year, because our preferred supplier shuts down during that time period. 
 
-The steps below describe an overview of how you will make the frames. You may find that you are able to do some steps, wait, and then finish on another day. This could save time later so that when you are a rush, maybe all you will have to do when you get an order is to secure the contents and finish up.
+Understanding the General Steps Involved
+========================================
+
+The steps below describe an overview of how you will make the frames. You may find that you are able to do some steps, wait, and then finish on another day. Creating parts of frames before receiving an order could save time later so that when you are a rush, maybe all you will have to do is secure the contents and finish up.
 
 Make an Art Frame, General Steps
 ********************************
