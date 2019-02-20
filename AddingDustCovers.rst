@@ -30,7 +30,7 @@ Add a Dust Cover
    Always use a fresh |xb|. This is a key factor in quality.
 
 .. note::
-x  When trimming the dust backing, keep your hand firm that is holding the |xb| as you move it along the frame edge. Use the frame edge as a guide to keep the blade a consistent distance from the edge. A good distance from the edge to trim the cover is about 1/8".
+   When trimming the dust backing, keep your hand firm that is holding the |xb| as you move it along the frame edge. Use the frame edge as a guide to keep the blade a consistent distance from the edge. A good distance from the edge to trim the cover is about 1/8".
 
 .. warning::
    An |xb| is very sharp. It is easy to seriously cut yourself. Be careful and be ready to bandage a cut or seek emergency attention.
