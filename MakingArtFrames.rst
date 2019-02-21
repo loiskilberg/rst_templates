@@ -51,6 +51,10 @@ What Types of Frames do We Make?
 
 more text will go here, add a table showing the frame types, define "glazing", perhaps talk about when to use plexi vs glass and how to tell them apart, maybe an external link to frame pictures on our Etsy shop
 
+.. image:: pictureOfSaw.jpg
+        :alt: Picture of a saw to cut frame moulding.
+        :width: 400
+
 Preparing to Make Frames
 ************************
 
