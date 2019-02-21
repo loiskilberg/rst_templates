@@ -16,6 +16,13 @@ The materials you will need in order to finish the frame with bumpers and labels
 * a soft surface to rest the frame on while working to protect the frame from scratches, such as a fluffy white bath towel
 * a protective surface to put the hot glue gun on that will not melt nor allow hot glue to seep through or onto anything else
 
+.. only:: ShowCosts
+  Approximate Cost of Materials:
+  minimal cost for bumpers, label, and glue stick
+
+.. only:: ShowLabor
+  Approximate Time to Create Add Bumpers and Labels: 10 minutes
+
 You will be adding a SKU number to the product label that corresponds to the type of product you are making. Frame products for |llc| have a SKU beginning with the letter "F". Here are some examples:
 
 ``FR09G`` refers to a regular frame, 9"x12", medium width gold moulding
