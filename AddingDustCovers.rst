@@ -1,10 +1,6 @@
 .. _Heading 1 label:
 
-I need to move substitutions to a shared file.
-
-.. |llc| replace:: Lois Legacy Art LLC
-.. |ez| replace:: EZ-Release
-.. |xb| replace:: X-acto blade
+.. include:: loisIncludeFile.rst
 
 Adding Dust Covers
 ##################
