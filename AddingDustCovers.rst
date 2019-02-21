@@ -20,6 +20,19 @@ You will need the following materials to add a dust cover to a frame:
 * |xb| with a fresh blade
 * mounting tape, acid-free, double-sided
 
+.. only:: ShowCosts
+  Approximate Cost of Materials:
+  Dust cover material for an average 11"x14" frame:
+      one 24"x72" roll costs $13.63
+      14"+2" for moulding width = 16", can fit on 24" side of roll
+      11"+2" for moulding width = 13", will go on 72" side of roll
+      72"/13" = 5 rounded down, equals how many frames one roll can cover
+      price $13.63 / 5 = $2.73 approximate cost for one frame
+  Other supplies, minimal cost
+
+.. only:: ShowLabor
+  Approximate Time to Create Dust Cover: 15 minutes
+
 Add a Dust Cover to the New Frame
 *********************************
 
