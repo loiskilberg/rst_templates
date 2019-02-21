@@ -2,8 +2,6 @@
 
 .. include:: loisIncludeFile.rst
 
-I need to add a code-block somewhere.
-
 Finishing Up a Newly Made Frame
 ###############################
 
