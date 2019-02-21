@@ -61,13 +61,13 @@ The five characters for frame SKUs are explained below:
 Finish the New Frame
 ********************
 
-Add rubber bumpers and labels to the new frame:
-
 .. warning::
    Be careful not to touch the hot glue or the tip of the glue gun while it is hot!
 
 .. warning::
    While the glue gun is hot, keep it positioned over or on a protective surface that will not melt nor allow the hot glue to go where it is not wanted.
+
+Add rubber bumpers and labels to the new frame:
 
 #. Gather the supplies.
 
