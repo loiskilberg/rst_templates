@@ -2,10 +2,6 @@
 
 .. include:: loisIncludeFile.rst
 
-I plan to add conditional text based on:
-- whether to show typical cost of materials
-- whether to show typical labor time
-
 Making Art Frames
 #################
 
