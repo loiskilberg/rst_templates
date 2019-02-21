@@ -63,6 +63,13 @@ The five characters for frame SKUs are explained below:
 .. note::
    A SKU of ``FRXXX`` refers to an existing frame of any kind that we don't normally make.
 
+If you would like to add code to your webpage to show a sample of shadow box moulding, use this HTML snippet:
+
+.. code-block:: HTML
+
+     <a href="https://i.etsystatic.com/17864670/r/il/1d7b2c/1695865930/il_570xN.1695865930_p7ax.jpg" target="_blank">Shadow Box Frame Sample</a>
+
+
 Finish the New Frame
 ********************
 
