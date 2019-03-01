@@ -4,11 +4,11 @@
 
 .. |linkDustCover| raw:: html
 
-    <a href="AddingDustCovers.rst" target="_blank">(click here for more details)</a>
+    <a href="AddingDustCovers.html" target="_blank">(click here for more details)</a>
 
 .. |linkFinishing| raw:: html
 
-    <a href="FinishingUpNewFrames.rst" target="_blank">(click here for more details)</a>
+    <a href="FinishingUpNewFrames.html" target="_blank">(click here for more details)</a>
 
 Making Art Frames
 #################
