@@ -2,6 +2,14 @@
 
 .. include:: loisIncludeFile.rst
 
+.. |linkDustCover| raw:: html
+
+    <a href="AddingDustCovers.rst" target="_blank">(click here for more details)</a>
+
+.. |linkFinishing| raw:: html
+
+    <a href="FinishingUpNewFrames.rst" target="_blank">(click here for more details)</a>
+
 Making Art Frames
 #################
 
@@ -100,10 +108,10 @@ Follow these general steps to get the necessary materials and to produce an art 
 
 #. Secure the contents in the frame (TBD), more text might go here, remove any dust or debris while doing this.
 
-#. Add a dust backing if needed (see separate topic).
+#. Add a dust backing if needed |linkDustCover|. 
 
 #. Wire the frame (TBD) more text might go here, this process will differ depending on whether you are making a regular frame or an |ez| frame.
 
-#. Finish up the frame creation (see separate topic).
+#. Finish up the frame creation |linkFinishing|.
 
 Now you have a wonderful new frame! Clean up the work area, and make sure everything is put away. Arrange for supplies to be replenished. Update the inventory control system. Either package the frame and store it, or prepare it for upcoming delivery. Inform the appropriate people that the frame is ready.
