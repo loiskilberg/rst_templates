@@ -12,7 +12,5 @@ Example for index:
 .. toctree::
       :maxdepth: 1
 
-      file
-      file
-      file
-      file
+      LoisKilberg_resume.rst
+      MakingArtFrames.rst
