@@ -15,7 +15,7 @@ Dust covers are best used for art that will stay in the frame for a long time. I
 
 You will need the following materials to add a dust cover to a frame:
 
-* a piece of dust cover material a little larger than the outside dimensions of the frame, acid free (here is a good source: |dbdustCover|)
+* a piece of dust cover material a little larger than the outside dimensions of the frame, acid free (here is a good source: |dustCoverLink|)
 * scissors (optional) for the initial cut
 * |xb| with a fresh blade
 * mounting tape, acid-free, double-sided
